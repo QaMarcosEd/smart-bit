@@ -1,0 +1,8 @@
+node_modules/
+postgresdata/
+.vscode/
+tmp/uploads/
+__tests__/coverage/
+__tests__/database.sqlite
+dist/
+build/
