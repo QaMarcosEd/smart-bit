@@ -71,3 +71,7 @@ Antes de iniciar as aplicações, configure o arquivo `.env` da API:
 - **API**: Backend responsável pelo processamento de dados e comunicação com o banco de dados.  
 
 ---
+
+### Roadmap de testes
+![Roadmap de Testes](./Roadmap.png)
+
